@@ -5,7 +5,7 @@
 #define OUTPUT_FILE "Soru-2-output.txt"
 
 #define FAILED  1
-#define SUCCEED 1
+#define SUCCEED 0
 
 /*---------------------------------------------------------------------------*/
 int increment(int *bytemap, int size);
