@@ -123,7 +123,7 @@ char* fPar(int value, int *counter){
   bytemap[0] = 1;
   bytemap[size - 1] = 0;
 
-  while (true){
+  while (1){
     if (increment(bytemap, size)){
       break;
     }
